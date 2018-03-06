@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-sse",
+  "version": "1.0.0",
+  "description": "Server-Sent Events POC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishal7201/nodejs-sse.git"
+  },
+  "keywords": [
+    "SSE"
+  ],
+  "author": "Vishal Bisht <vishalbisht7201@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishal7201/nodejs-sse/issues"
+  },
+  "homepage": "https://github.com/vishal7201/nodejs-sse#readme"
+}

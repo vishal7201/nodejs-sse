@@ -1,0 +1,9 @@
+<html>
+   <body>
+      <script type="text/javascript"> 
+         let source = new EventSource("/sse/"); 
+         source.onmessage = event => document.body.innerHTML += "<p>" + event.data + "</p>"
+      </script> 
+      <h1>Server-Sent Events Example</h1>
+   </body>
+</html>
